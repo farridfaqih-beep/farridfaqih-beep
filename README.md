@@ -33,7 +33,7 @@ fariid@github:~$ neofetch
    ┌───────────────┐     fariid@farridfaqih-beep
    │   { }   />    │     ─────────────────────────────────
    │   ▓▓▓▓▓▓▓▓    │     Role      Informatics Student
-   │   ▒▒▒▒▒▒▒▒    │     Focus     Backend & REST API
+   │   ▒▒▒▒▒▒▒▒    │     Focus     Backend
    │   ░░░░░░░░    │     Stack     JS · Node.js · PHP · MySQL
    └───────────────┘     Editor    VS Code
                          Status    Building · Learning · Shipping
