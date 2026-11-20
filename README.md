@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:102A43,100:00D9FF&height=230&section=header&text=FARIID%20FAQIH&fontSize=44&fontColor=E6F1FF&fontAlignY=36&desc=INFORMATICS%20STUDENT%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20DEVELOPMENT&descAlignY=59&descSize=13&animation=fadeIn" alt="Fariid Faqih banner" width="100%"/>
-
-<a href="https://github.com/farridfaqih-beep">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Fariid+Faqih;Informatics+Student+%F0%9F%8E%93;Backend+Developer+in+the+making+%E2%9A%99%EF%B8%8F;REST+API+%7C+Database+Design+%7C+Web+Apps;Building+useful+things%2C+one+commit+at+a+time" alt="Typing animation" />
-</a>
+<img src="assets/header.svg" alt="Animated terminal: Fariid Faqih, Informatics Student, Backend, REST API, Database Design" width="100%"/>
 
 <br/>
 
@@ -13,11 +9,35 @@
 <a href="mailto:farridfaqih@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=farridfaqih-beep&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
 
+<br/><br/>
+
+<sub>
+<a href="#01--about-me"><b>About</b></a> &nbsp;·&nbsp;
+<a href="#02--tech-stack"><b>Stack</b></a> &nbsp;·&nbsp;
+<a href="#03--featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
+<a href="#04--how-i-build"><b>Workflow</b></a> &nbsp;·&nbsp;
+<a href="#05--progress-log"><b>Progress</b></a> &nbsp;·&nbsp;
+<a href="#06--github-stats"><b>Stats</b></a> &nbsp;·&nbsp;
+<a href="#07--lets-connect"><b>Connect</b></a>
+</sub>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
 </div>
 
----
-
 ## `01` / About Me
+
+```text
+fariid@github:~$ neofetch
+
+   ┌───────────────┐     fariid@farridfaqih-beep
+   │   { }   />    │     ─────────────────────────────────
+   │   ▓▓▓▓▓▓▓▓    │     Role      Informatics Student
+   │   ▒▒▒▒▒▒▒▒    │     Focus     Backend & REST API
+   │   ░░░░░░░░    │     Stack     JS · Node.js · PHP · MySQL
+   └───────────────┘     Editor    VS Code
+                         Status    Building · Learning · Shipping
+```
 
 ```js
 const fariid = {
@@ -27,6 +47,7 @@ const fariid = {
   interests: ["Software Engineering", "Backend Development"],
   focus: ["REST API", "Database Design", "Web Application Development"],
   stack: ["JavaScript", "Node.js", "PHP", "MySQL"],
+  currentlyLearning: ["CI/CD with GitHub Actions", "Python for Numerical Methods & Statistics"],
   mindset: "Learn continuously. Build consistently. Improve deliberately.",
   isCoffeeNeeded: true,
 };
@@ -36,61 +57,22 @@ I'm an Informatics student who enjoys designing and building software, especiall
 
 > 🎯 **Current direction:** Software Engineering & Backend Development, while strengthening my programming fundamentals through hands-on projects.
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## `02` / Tech Stack
 
 <div align="center">
-
-<table>
-  <tr>
-    <th align="center">💻 Languages</th>
-    <th align="center">🌐 Web &amp; Backend</th>
-    <th align="center">🧰 Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,php,py,cpp&theme=dark" alt="JavaScript, PHP, Python, C++"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,mysql,html,css,bootstrap&theme=dark" alt="Node.js, MySQL, HTML, CSS, Bootstrap"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Postman, VS Code"/>
-    </td>
-  </tr>
-</table>
-
+<img src="assets/stack.svg" alt="Tech stack: JavaScript, Node.js, PHP, MySQL, Python, C++, HTML, CSS, Bootstrap, Git, GitHub, GitHub Actions, Postman, VS Code, REST API, Database Design" width="100%"/>
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## `03` / Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Booking Management API</h3>
-      <p>REST API for managing booking records: full CRUD, JSON file storage, request validation, booking summaries, and public holiday data from the Refnusa API.</p>
-      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00D9FF" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D9FF" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&color=00D9FF" alt="REST API"/>
-      <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=00D9FF" alt="Postman"/>
-      <br/><br/>
-      <a href="https://github.com/farridfaqih-beep/booking-management-api"><b>View repository ↗</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📸 Lensa Studio</h3>
-      <p>Photography studio management web app: customer reservations, manual payment verification, photographer assignments, private photo galleries, and operational reports.</p>
-      <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00D9FF" alt="PHP"/>
-      <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00D9FF" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=00D9FF" alt="Bootstrap"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9FF" alt="GitHub Actions"/>
-      <br/><br/>
-      <a href="https://github.com/farridfaqih-beep/Lensa-Studio"><b>View repository ↗</b></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<a href="https://github.com/farridfaqih-beep/booking-management-api"><img src="assets/card-booking-api.svg" alt="Booking Management API: REST API for managing booking records with CRUD, JSON storage, validation, and public holiday data" width="49%"/></a>
+<a href="https://github.com/farridfaqih-beep/Lensa-Studio"><img src="assets/card-lensa-studio.svg" alt="Lensa Studio: photography studio management web app built with PHP and MySQL" width="49%"/></a>
+</div>
 
 ### 🗂️ More from my workspace
 
@@ -101,9 +83,36 @@ I'm an Informatics student who enjoys designing and building software, especiall
 | [**Project-RPL**](https://github.com/farridfaqih-beep/Project-RPL) | ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00D9FF) | Software engineering coursework with CI practice |
 | [**UAS-DASPRO-KELOMPOK-1**](https://github.com/fluttersha-hub/UAS-DASPRO-KELOMPOK-1) | ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D9FF) | Team project for the Programming Fundamentals final exam |
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
-## `04` / GitHub Stats
+## `04` / How I Build
+
+```mermaid
+flowchart LR
+    A["💡 Requirement"] --> B["🗄️ Database Design"]
+    B --> C["⚙️ REST API"]
+    C --> D["🧪 Test with Postman"]
+    D --> E["🚀 Commit & CI"]
+    E -. "iterate" .-> A
+```
+
+<sub>From requirement to working software: understand the problem, model the data, build the endpoints, test them, then ship and improve.</sub>
+
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
+
+## `05` / Progress Log
+
+- [x] 🚀 Build a REST API with Node.js — *booking-management-api*
+- [x] 📸 Build a full web app with PHP & MySQL — *Lensa Studio*
+- [x] ⚙️ Practice CI with GitHub Actions — *Project-RPL*
+- [x] 🤝 Collaborate on a team project — *UAS-DASPRO-KELOMPOK-1*
+- [ ] 🔐 Add authentication (JWT) to an API
+- [ ] 🐳 Learn Docker & deployment
+- [ ] 🧪 Write automated tests for backend projects
+
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
+
+## `06` / GitHub Stats
 
 <div align="center">
 
@@ -129,11 +138,15 @@ I'm an Informatics student who enjoys designing and building software, especiall
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
-## `05` / Let's Connect
+## `07` / Let's Connect
 
 <div align="center">
+
+<sub>💬 Happy to chat about REST API design, database design, and web application development.</sub>
+
+<br/><br/>
 
 <a href="https://github.com/farridfaqih-beep"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/></a>
 <a href="https://instagram.com/fariidfaqih_"><img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram"/></a>
