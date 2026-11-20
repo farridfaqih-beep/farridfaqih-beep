@@ -47,7 +47,6 @@ const fariid = {
   interests: ["Software Engineering", "Backend Development"],
   focus: ["REST API", "Database Design", "Web Application Development"],
   stack: ["JavaScript", "Node.js", "PHP", "MySQL"],
-  currentlyLearning: ["CI/CD with GitHub Actions", "Python for Numerical Methods & Statistics"],
   mindset: "Learn continuously. Build consistently. Improve deliberately.",
   isCoffeeNeeded: true,
 };
