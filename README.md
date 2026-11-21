@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Animated terminal: Fariid Faqih, Informatics Student, Backend, REST API, Database Design" width="100%"/>
+<img src="assets/header.svg" alt="Animated terminal: Muhammad Fariid Faqih, Informatics Student, Backend, Database Design" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/farridfaqih-beep"><img src="https://img.shields.io/badge/GitHub-farridfaqih--beep-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/></a>
-<a href="https://instagram.com/fariidfaqih_"><img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram"/></a>
-<a href="mailto:farridfaqih@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/></a>
+<a href="https://github.com/farridfaqih-beep"><img src="assets/btn-github.svg" alt="GitHub: farridfaqih-beep" width="28%"/></a>
+<a href="https://instagram.com/fariidfaqih_"><img src="assets/btn-instagram.svg" alt="Instagram: @fariidfaqih_" width="28%"/></a>
+<a href="mailto:farridfaqih@gmail.com"><img src="assets/btn-email.svg" alt="Email: farridfaqih@gmail.com" width="28%"/></a>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=farridfaqih-beep&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
 
 <br/><br/>
@@ -16,7 +19,7 @@
 <a href="#02--tech-stack"><b>Stack</b></a> &nbsp;·&nbsp;
 <a href="#03--featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
 <a href="#04--how-i-build"><b>Workflow</b></a> &nbsp;·&nbsp;
-<a href="#05--progress-log"><b>Progress</b></a> &nbsp;·&nbsp;
+<a href="#05--status-board"><b>Status</b></a> &nbsp;·&nbsp;
 <a href="#06--github-stats"><b>Stats</b></a> &nbsp;·&nbsp;
 <a href="#07--lets-connect"><b>Connect</b></a>
 </sub>
@@ -27,34 +30,28 @@
 
 ## `01` / About Me
 
-```text
-fariid@github:~$ neofetch
+<div align="center">
+<img src="assets/about.svg" alt="about.js: const fariid with name Muhammad Fariid Faqih, role Informatics Student, interests Software Engineering and Backend Development, focus REST API, Database Design and Web Application Development, stack JavaScript, Node.js, PHP and MySQL" width="100%"/>
+</div>
 
-   ┌───────────────┐     fariid@farridfaqih-beep
-   │   { }   />    │     ─────────────────────────────────
-   │   ▓▓▓▓▓▓▓▓    │     Role      Informatics Student
-   │   ▒▒▒▒▒▒▒▒    │     Focus     Backend
-   │   ░░░░░░░░    │     Stack     JS · Node.js · PHP · MySQL
-   └───────────────┘     Editor    VS Code
-                         Status    Building · Learning · Shipping
-```
-
-```js
-const fariid = {
-  name: "Muhammad Fariid Faqih",
-  role: "Informatics Student",
-  location: "Indonesia 🇮🇩",
-  interests: ["Software Engineering", "Backend Development"],
-  focus: ["REST API", "Database Design", "Web Application Development"],
-  stack: ["JavaScript", "Node.js", "PHP", "MySQL"],
-  mindset: "Learn continuously. Build consistently. Improve deliberately.",
-  isCoffeeNeeded: true,
-};
-```
+<br/>
 
 I'm an Informatics student who enjoys designing and building software, especially on the backend side. I like working with APIs, organizing data, understanding application architecture, and turning requirements into useful software.
 
 > 🎯 **Current direction:** Software Engineering & Backend Development, while strengthening my programming fundamentals through hands-on projects.
+
+<details>
+<summary><b>▶ run <code>node fariid.js</code></b></summary>
+
+```text
+$ node fariid.js
+> Learn continuously.
+> Build consistently.
+> Improve deliberately.
+> isCoffeeNeeded → true ☕
+```
+
+</details>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
@@ -75,39 +72,31 @@ I'm an Informatics student who enjoys designing and building software, especiall
 
 ### 🗂️ More from my workspace
 
-| Project | Stack | What it's about |
-| :-- | :-- | :-- |
-| [**Metode-Numerik**](https://github.com/farridfaqih-beep/Metode-Numerik) | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF) | Numerical methods implemented in Python |
-| [**Statistika**](https://github.com/farridfaqih-beep/Statistika) | ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00D9FF) | Statistics practice & data analysis notebooks |
-| [**Project-RPL**](https://github.com/farridfaqih-beep/Project-RPL) | ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=00D9FF) | Software engineering coursework with CI practice |
-| [**UAS-DASPRO-KELOMPOK-1**](https://github.com/fluttersha-hub/UAS-DASPRO-KELOMPOK-1) | ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D9FF) | Team project for the Programming Fundamentals final exam |
+<div align="center">
+<a href="https://github.com/farridfaqih-beep/Metode-Numerik"><img src="assets/mini-metode-numerik.svg" alt="Metode-Numerik: numerical methods implemented in Python" width="49%"/></a>
+<a href="https://github.com/farridfaqih-beep/Statistika"><img src="assets/mini-statistika.svg" alt="Statistika: statistics practice and data analysis notebooks" width="49%"/></a>
+<br/>
+<a href="https://github.com/farridfaqih-beep/Project-RPL"><img src="assets/mini-project-rpl.svg" alt="Project-RPL: software engineering coursework with CI practice" width="49%"/></a>
+<a href="https://github.com/fluttersha-hub/UAS-DASPRO-KELOMPOK-1"><img src="assets/mini-uas-daspro.svg" alt="UAS-DASPRO-KELOMPOK-1: team project for the Programming Fundamentals final exam" width="49%"/></a>
+</div>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
 ## `04` / How I Build
 
-```mermaid
-flowchart LR
-    A["💡 Requirement"] --> B["🗄️ Database Design"]
-    B --> C["⚙️ REST API"]
-    C --> D["🧪 Test with Postman"]
-    D --> E["🚀 Commit & CI"]
-    E -. "iterate" .-> A
-```
+<div align="center">
+<img src="assets/pipeline.svg" alt="How I build: requirement, database, API, test, ship, then iterate and improve" width="100%"/>
+</div>
 
 <sub>From requirement to working software: understand the problem, model the data, build the endpoints, test them, then ship and improve.</sub>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
-## `05` / Progress Log
+## `05` / Status Board
 
-- [x] 🚀 Build a REST API with Node.js — *booking-management-api*
-- [x] 📸 Build a full web app with PHP & MySQL — *Lensa Studio*
-- [x] ⚙️ Practice CI with GitHub Actions — *Project-RPL*
-- [x] 🤝 Collaborate on a team project — *UAS-DASPRO-KELOMPOK-1*
-- [ ] 🔐 Add authentication (JWT) to an API
-- [ ] 🐳 Learn Docker & deployment
-- [ ] 🧪 Write automated tests for backend projects
+<div align="center">
+<img src="assets/status.svg" alt="Skill status board: JavaScript, Node.js, PHP, MySQL, Git and GitHub, and Postman at 200 OK; GitHub Actions and Python at 202 Accepted; next project at 102 Processing" width="100%"/>
+</div>
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"/></div>
 
@@ -143,18 +132,16 @@ flowchart LR
 
 <div align="center">
 
-<sub>💬 Happy to chat about REST API design, database design, and web application development.</sub>
+<img src="assets/contact.svg" alt="POST /contact with the message: Let's build something useful together. Response 200 OK: Say hello via email or Instagram." width="100%"/>
+
+<br/>
+
+<a href="https://github.com/farridfaqih-beep"><img src="assets/btn-github.svg" alt="GitHub: farridfaqih-beep" width="28%"/></a>
+<a href="https://instagram.com/fariidfaqih_"><img src="assets/btn-instagram.svg" alt="Instagram: @fariidfaqih_" width="28%"/></a>
+<a href="mailto:farridfaqih@gmail.com"><img src="assets/btn-email.svg" alt="Email: farridfaqih@gmail.com" width="28%"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/farridfaqih-beep"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/></a>
-<a href="https://instagram.com/fariidfaqih_"><img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram"/></a>
-<a href="mailto:farridfaqih@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=Great+software+is+built+through+curiosity%2C;consistency%2C+and+thoughtful+iteration." alt="Quote"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:0B1020&height=110&section=footer" alt="Footer" width="100%"/>
+<img src="assets/footer.svg" alt="Thanks for stopping by. Great software is built through curiosity, consistency, and thoughtful iteration." width="100%"/>
 
 </div>
