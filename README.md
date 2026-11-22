@@ -115,9 +115,6 @@ $ node fariid.js
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farridfaqih-beep&bg_color=0B1020&color=00D9FF&line=00D9FF&point=E6F1FF&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%"/>
 
-  Snake animation: aktifkan setelah workflow snake.yml berhasil dijalankan
-  (hapus tanda komentar di bawah ini).
-
 <img src="https://raw.githubusercontent.com/farridfaqih-beep/farridfaqih-beep/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 <sub>Statistik dibuat dari aktivitas publik GitHub. Kartu eksternal dapat memerlukan waktu untuk diperbarui atau sesekali tidak tersedia.</sub>
