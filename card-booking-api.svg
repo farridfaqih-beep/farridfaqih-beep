@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="296" viewBox="0 0 440 296" role="img" aria-label="Booking Management API - REST API for managing booking records: full CRUD, JSON file storage, request validation, booking summaries, and public holiday data from the Refnusa API.">
+<title>Booking Management API</title>
+<style>.m{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace}.s{font-family:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}</style>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#1B2A4A"/></pattern>
+  <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#00D9FF" stop-opacity="0.16"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="runner" x1="0" y1="0" x2="440" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#8B7CFF"/></linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="439" height="295" rx="16" fill="#0B1020" stroke="#1F3358"/>
+<rect x="1" y="1" width="438" height="294" rx="16" fill="url(#dots)" opacity="0.7"/>
+<rect x="1" y="1" width="438" height="294" rx="16" fill="url(#glow)"/>
+<rect x="28" y="26" width="48" height="48" rx="12" fill="#12233F" stroke="#1F3358"/>
+<text class="m" x="52" y="57" text-anchor="middle" font-size="20" font-weight="700" fill="#00D9FF">{ }</text>
+<text class="s" x="92" y="48" font-size="22" font-weight="700" fill="#E6F1FF">Booking Management API</text>
+<text class="m" x="92" y="68" font-size="12" fill="#8B949E">farridfaqih-beep/booking-management-api</text>
+<circle cx="412" cy="268" r="4" fill="#3DDC97"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text class="m" x="402" y="272" text-anchor="end" font-size="11" fill="#8B949E">public</text>
+<line x1="28" y1="92" x2="412" y2="92" stroke="#1F3358"/>
+<text class="s" x="28" y="122" font-size="14" fill="#C9D1D9">REST API for managing booking records: full</text><text class="s" x="28" y="144" font-size="14" fill="#C9D1D9">CRUD, JSON file storage, request validation,</text><text class="s" x="28" y="166" font-size="14" fill="#C9D1D9">booking summaries, and public holiday data</text><text class="s" x="28" y="188" font-size="14" fill="#C9D1D9">from the Refnusa API.</text>
+<rect x="28" y="214" width="72.4" height="26" rx="13" fill="#101C36" stroke="#1F3358"/><text class="m" x="64.2" y="231" text-anchor="middle" font-size="12" fill="#00D9FF">Node.js</text><rect x="108.4" y="214" width="79.6" height="26" rx="13" fill="#101C36" stroke="#1F3358"/><text class="m" x="148.2" y="231" text-anchor="middle" font-size="12" fill="#00D9FF">REST API</text><rect x="196" y="214" width="72.4" height="26" rx="13" fill="#101C36" stroke="#1F3358"/><text class="m" x="232.2" y="231" text-anchor="middle" font-size="12" fill="#00D9FF">Postman</text><rect x="276.4" y="214" width="50.8" height="26" rx="13" fill="#101C36" stroke="#1F3358"/><text class="m" x="301.8" y="231" text-anchor="middle" font-size="12" fill="#00D9FF">JSON</text>
+<text class="s" x="28" y="272" font-size="13" font-weight="700" fill="#00D9FF">View repository →</text>
+<rect x="1" y="1" width="438" height="294" rx="16" fill="none" stroke="url(#runner)" stroke-width="2" stroke-linecap="round" stroke-dasharray="150 1286.53">
+  <animate attributeName="stroke-dashoffset" from="0" to="-1436.53" dur="7s" begin="0s" repeatCount="indefinite"/>
+</rect>
+</svg>

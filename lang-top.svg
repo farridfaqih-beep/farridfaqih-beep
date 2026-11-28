@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="290" viewBox="0 0 440 290" role="img" aria-label="Top languages by share of code">
+<style>.m{font-family:'Fira Code','JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace}.s{font-family:-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}</style>
+<rect x="0.75" y="0.75" width="438.5" height="288.5" rx="14" fill="#0B1020" stroke="#00D9FF" stroke-opacity="0.55" stroke-width="1.5"/>
+<text class="s" x="24" y="36" font-size="15" font-weight="700" fill="#00D9FF">Top languages</text>
+<defs><clipPath id="cb"><rect x="24" y="52" width="392" height="8" rx="4"/></clipPath></defs><rect x="24" y="52" width="392" height="8" rx="4" fill="#1B2D50"/>
+<circle cx="30" cy="91" r="5" fill="#1B2D50"/><rect x="46" y="85" width="90" height="10" rx="5" fill="#1B2D50"/><rect x="24" y="105" width="392" height="3" rx="1.5" fill="#16253F"/>
+<circle cx="30" cy="125" r="5" fill="#1B2D50"/><rect x="46" y="119" width="82" height="10" rx="5" fill="#1B2D50"/><rect x="24" y="139" width="392" height="3" rx="1.5" fill="#16253F"/>
+<circle cx="30" cy="159" r="5" fill="#1B2D50"/><rect x="46" y="153" width="74" height="10" rx="5" fill="#1B2D50"/><rect x="24" y="173" width="392" height="3" rx="1.5" fill="#16253F"/>
+<circle cx="30" cy="193" r="5" fill="#1B2D50"/><rect x="46" y="187" width="66" height="10" rx="5" fill="#1B2D50"/><rect x="24" y="207" width="392" height="3" rx="1.5" fill="#16253F"/>
+<text class="m" x="24" y="274" font-size="10.5" fill="#8B949E">waiting for the first update</text>
+</svg>
